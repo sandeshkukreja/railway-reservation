@@ -1,0 +1,6 @@
+Name: Abheesh
+Ethnicity: Hindu
+CNIC Number: 341231321
+Gender: Male
+Place of Birth: Karachi
+Date of Birth: java.util.GregorianCalendar[time=1658431119423,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Karachi",offset=18000000,dstSavings=0,useDaylight=false,transitions=12,lastRule=null],firstDayOfWeek=2,minimalDaysInFirstWeek=4,ERA=1,YEAR=2022,MONTH=6,WEEK_OF_YEAR=29,WEEK_OF_MONTH=3,DAY_OF_MONTH=22,DAY_OF_YEAR=203,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=0,HOUR_OF_DAY=0,MINUTE=18,SECOND=39,MILLISECOND=423,ZONE_OFFSET=18000000,DST_OFFSET=0]
